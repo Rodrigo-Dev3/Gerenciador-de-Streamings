@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuAddProduto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orderInCategory="300"
+        android:title="Novo"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuSair"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orderInCategory="300"
+        android:title="Sair"
+        app:showAsAction="ifRoom" />
+</menu>

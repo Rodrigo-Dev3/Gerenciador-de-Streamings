@@ -1,0 +1,2 @@
+# GerenciadordeStreamings
+ Projeto - Android Studio

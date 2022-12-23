@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "143945717240",
+    "firebase_url": "https://gerenciador-de-streamings-default-rtdb.firebaseio.com",
+    "project_id": "gerenciador-de-streamings",
+    "storage_bucket": "gerenciador-de-streamings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143945717240:android:746d2921e2c5a7c2d8320d",
+        "android_client_info": {
+          "package_name": "com.example.gerenciadordestreamings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143945717240-e581d5l0bks05ap6sahqeujd4qiler53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqIo1f8tFYYCWdv3ZPOpq22h2opDOhg3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143945717240-e581d5l0bks05ap6sahqeujd4qiler53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

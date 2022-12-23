@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gerenciador de Streamings</string>
+    <string-array name="strCategoriasProduto">
+        <item></item>
+        <item>Netflix</item>
+        <item>Prime Video</item>
+        <item>AppleTV+</item>
+        <item>HBO MAX</item>
+        <item>Disney+</item>
+        <item>Star+</item>
+    </string-array>
+</resources>
